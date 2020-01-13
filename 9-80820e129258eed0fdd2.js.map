@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/contentPages/notFound.js"],"names":["NotFound"],"mappings":"2FACA,gCAQeA,UANE,kBACb","file":"9-80820e129258eed0fdd2.js","sourcesContent":["\r\nimport React from \"react\";\r\n\r\nconst NotFound = () => (\r\n    <div>\r\n      Page Not Found... \r\n    </div>\r\n  )\r\n  \r\nexport default NotFound;"],"sourceRoot":""}
